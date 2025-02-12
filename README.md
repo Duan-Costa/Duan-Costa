@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
  💻Explorador do mundo da programação | Em busca da minha primeira oportunidade Apaixonado por tecnologia e sempre em busca de desafios, estou trilhando minha jornada no Desenvolvedor front- end | Back- end.
- Atualmente, estudo [linguagens: Html,Css,JavaScript, Python,Node.js, SQL, APIs ] e me dedico a criar projetos que resolvem problemas reais e aprimoram minhas habilidades.
+ Atualmente, estudo [linguagens: Html,Css,JavaScript, Python,Node.js ] e me dedico a criar projetos que resolvem problemas reais e aprimoram minhas habilidades.
 </p>
 
 <p>
