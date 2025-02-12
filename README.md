@@ -72,13 +72,20 @@
 <!-- Portfolio -->
 
 ## Portfolio:
-- [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
 - [Projeto Cafeteria](https://github.com/Duan-Costa/repositoria-cafereia)
 - [Projeto Mario Maker Master](https://github.com/Duan-Costa/repositorio-mario-maker-master)
 - [Projeto Cafezinho Virtual](https://github.com/Duan-Costa/repositorio-CafezimVirtual-main)
+- [Projeto finas-main](https://github.com/Duan-Costa/repositorio-projeto-finas-main)
 - [Projeto Instagram](https://github.com/Duan-Costa/repositorio-instagram)
+- [Projeto Infusin](https://github.com/Duan-Costa/repositorio-Infusion)
 - [Projeto Clone Yu-Gi-Oh](https://github.com/Duan-Costa/repositorio-clone-yu-gi-oh)
 - [Projeto STarbucks](https://github.com/Duan-Costa/repositorio-starbucks)
+- [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
+- [Projeto Infusin](https://github.com/Duan-Costa/repositorio-Infusion)
+- [Projeto landig-page-gogwarts](https://github.com/Duan-Costa/repositorio-landing-page-hogwarts-legacy-main)
+- [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
+- [Projeto finas-main](https://github.com/Duan-Costa/repositorio-projeto-finas-main)
+- 
 
 <!-- GIF -->
 <p align="left">
