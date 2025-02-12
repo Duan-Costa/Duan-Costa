@@ -82,10 +82,9 @@
 - [Projeto Clone Yu-Gi-Oh](https://github.com/Duan-Costa/repositorio-clone-yu-gi-oh)
 - [Projeto STarbucks](https://github.com/Duan-Costa/repositorio-starbucks)
 - [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
-- [Projeto Infusin](https://github.com/Duan-Costa/repositorio-Infusion)
+- [Projeto E-comerce-product](https://github.com/Duan-Costa/repositorio-E-commerce-Product-Page)
 - [Projeto landig-page-gogwarts](https://github.com/Duan-Costa/repositorio-landing-page-hogwarts-legacy-main)
-- [Projeto Replica-HBO ](https://github.com/Duan-Costa/reposittorio-HBO-Replica-main/blob/main/README.md)
-- [Projeto finas-main](https://github.com/Duan-Costa/repositorio-projeto-finas-main)
+- [Projeto Dine-Restaurant](https://github.com/Duan-Costa/repositorio-Dine-Restaurant-Website)
 - 
 
 <!-- GIF -->
