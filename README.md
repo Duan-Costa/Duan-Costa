@@ -75,6 +75,7 @@
 - [Projeto Cafeteria](https://github.com/Duan-Costa/repositoria-cafereia)
 - [Projeto Mario Maker Master](https://github.com/Duan-Costa/repositorio-mario-maker-master)
 - [Projeto Cafezinho Virtual](https://github.com/Duan-Costa/repositorio-CafezimVirtual-main)
+- [Projeto Replica-HBO ](https://github.com/Duan-Costa/reposittorio-HBO-Replica-main/blob/main/README.md)
 - [Projeto finas-main](https://github.com/Duan-Costa/repositorio-projeto-finas-main)
 - [Projeto Instagram](https://github.com/Duan-Costa/repositorio-instagram)
 - [Projeto Infusin](https://github.com/Duan-Costa/repositorio-Infusion)
@@ -83,7 +84,7 @@
 - [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
 - [Projeto Infusin](https://github.com/Duan-Costa/repositorio-Infusion)
 - [Projeto landig-page-gogwarts](https://github.com/Duan-Costa/repositorio-landing-page-hogwarts-legacy-main)
-- [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
+- [Projeto Replica-HBO ](https://github.com/Duan-Costa/reposittorio-HBO-Replica-main/blob/main/README.md)
 - [Projeto finas-main](https://github.com/Duan-Costa/repositorio-projeto-finas-main)
 - 
 
