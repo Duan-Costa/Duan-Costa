@@ -72,20 +72,20 @@
 <!-- Portfolio -->
 
 ## Portfolio:
-- [Projeto Cafeteria](duan-costa.github.io/repositoria-cafereia/)
-- [Projeto Mario Maker Master](duan-costa.github.io/repositorio-mario-m)
-- [Projeto Cafezinho Virtual](duan-costa.github.io/repositorio-Cafezi)
-- [Projeto Replica-HBO ](duan-costa.github.io/HBO-Replica-main/)
-- [Projeto finas-main](duan-costa.github.io/repositorio-projeto-)
-- [Projeto Instagram](duan-costa.github.io/repositorio-hallow)
+- [Projeto Cafeteria](https://github.com/Duan-Costa/repositoria-cafereia)
+- [Projeto Mario Maker Master](https://github.com/Duan-Costa/repositorio-mario-maker-master)
+- [Projeto Cafezinho Virtual](https://github.com/Duan-Costa/repositorio-CafezimVirtual-main)
+- [Projeto Replica-HBO ](https://github.com/Duan-Costa/HBO-Replica-main)
+- [Projeto finas-main](https://github.com/Duan-Costa/repositorio-projeto-finas-main)
+- [Projeto Halloween](https://github.com/Duan-Costa/repositorio-halloween-landing-page)
 - [Projeto Instagram](https://github.com/Duan-Costa/repositorio-instagram)
-- [Projeto Infusin](duan-costa.github.io/repositorio-Infusion/)
-- [Projeto Clone Yu-Gi-Oh](duan-costa.github.io/repositorio-clone-yu-)
-- [Projeto STarbucks](duan-costa.github.io/repositorio-starbuck)
-- [Projeto GTA ]( https://duan-costa.github.io/repositorio-projeto-gta/)
-- [Projeto E-comerce-product](duan-costa.github.io/repositorio-E-com)
-- [Projeto landig-page-gogwarts](duan-costa.github.io/repositorio-landing-)
-- [Projeto Dine-Restaurant](duan-costa.github.io/repositorio-Dine-R)
+- [Projeto Infusin](https://github.com/Duan-Costa/repositorio-Infusion)
+- [Projeto Clone Yu-Gi-Oh](https://github.com/Duan-Costa/repositorio-clone-yu-gi-oh)
+- [Projeto STarbucks](https://github.com/Duan-Costa/repositorio-starbucks)
+- [Projeto GTA ](https://github.com/Duan-Costa/repositorio-projeto-gta)
+- [Projeto E-comerce-product](https://github.com/Duan-Costa/repositorio-E-commerce-Product-Page)
+- [Projeto landig-page-gogwarts](https://github.com/Duan-Costa/repositorio-landing-page-hogwarts-legacy-main)
+- [Projeto Dine-Restaurant](https://github.com/Duan-Costa/repositorio-Dine-Restaurant-Website)
 - 
 
 <!-- GIF -->
